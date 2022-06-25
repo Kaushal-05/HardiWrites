@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/banner2.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -677,4 +677,13 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+}
+
+.social1 {
+    color: #aaaa;
+    display: flex;
+    flex-direction: column;
+    margin: 0 30px;
+    size: 100vh;
+
 }
